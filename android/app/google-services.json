@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1080722088438",
+    "firebase_url": "https://my-firebase-flutter-app-79343.firebaseio.com",
+    "project_id": "my-firebase-flutter-app-79343",
+    "storage_bucket": "my-firebase-flutter-app-79343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080722088438:android:6139c947290a7e4d",
+        "android_client_info": {
+          "package_name": "com.yourcompany.myfriendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080722088438-kicsecubq3kpaf4v8r8amv9262g1e0vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_qMGI_1LI_Kl3ayswhPc46fyu0cuje2c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
